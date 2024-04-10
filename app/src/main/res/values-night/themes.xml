@@ -1,0 +1,47 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesAppSql" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <style name="backGround">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="AppBarLayout">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="AppBarTextLayout">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="AppBarIconLayout">
+        <item name="android:tint">@color/white</item>
+    </style>
+
+    <style name="editTextView">
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:background">@drawable/edit_text_layout_night</item>
+    </style>
+
+    <style name="homeCardView">
+        <item name="android:background">@color/gray</item>
+        <item name="android:outlineSpotShadowColor">@color/white</item>
+    </style>
+
+    <style name="homeCardViewTitle">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="homeCardViewSubTitle">
+        <item name="android:textColor">@color/light_gray</item>
+    </style>
+
+    <style name="floatingButton">
+        <item name="android:backgroundTint">@color/dark_gray</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes App Sql</string>
+    <string name="app_title_name">Notes</string>
+    <string name="app_title_edit_notes">Edit Notes</string>
+    <string name="no_notes">No Notes</string>
+    <string name="heading">Heading</string>
+    <string name="description">Description</string>
+
+    //menu
+    <string name="delete">Delete</string>
+    <string name="clearAll">Clear All</string>
+    <string name="reminder">Set Reminder</string>
+    <string name="share">Share</string>
+
+</resources>
