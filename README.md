@@ -11,7 +11,10 @@ Welcome to Notes app, the feature of Android note app that helps you stay organi
 * Open notify notes when tape on Notification
 
 ## Screenshots
-![Screenshot_20240410_212631](https://github.com/VasantDave/Notes_app/assets/142881259/874ada68-5253-42f7-bddd-f9f0b0bd5dd9 | width=100)
+
+<img src="https://github.com/VasantDave/Notes_app/assets/142881259/874ada68-5253-42f7-bddd-f9f0b0bd5dd9" width="250" height="350">
+
+![Screenshot_20240410_212631](https://github.com/VasantDave/Notes_app/assets/142881259/874ada68-5253-42f7-bddd-f9f0b0bd5dd9)
 ![Screenshot_20240410_212711](https://github.com/VasantDave/Notes_app/assets/142881259/5fb6c48c-2ff5-45f9-a8f5-152f0252f795)
 ![Screenshot_20240410_212750](https://github.com/VasantDave/Notes_app/assets/142881259/32f62690-9234-4911-a05c-8e78b459c877)
 ![Screenshot_20240410_212729](https://github.com/VasantDave/Notes_app/assets/142881259/73155771-d8f0-4d88-a972-ac60b15c6a77)
