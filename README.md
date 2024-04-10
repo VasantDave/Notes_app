@@ -19,6 +19,7 @@ Welcome to Notes app, the feature of Android note app that helps you stay organi
 ![Screenshot_20240410_212809](https://github.com/VasantDave/Notes_app/assets/142881259/343efef9-a374-4479-8360-c7547ad96621)
 ![Screenshot_20240410_212819](https://github.com/VasantDave/Notes_app/assets/142881259/749eb099-4256-449c-9de3-c78837206eeb)
 ![Screenshot_20240410_212832](https://github.com/VasantDave/Notes_app/assets/142881259/4d955c66-9937-4658-b583-d4894a03242e)
+<img src="[https://your-image-url.type](https://github.com/VasantDave/Notes_app/assets/142881259/4d955c66-9937-4658-b583-d4894a03242e)" width="100" height="100">
 
 
 ## Technical Details
