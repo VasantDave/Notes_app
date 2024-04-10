@@ -9,3 +9,9 @@ Welcome to Notes app, the feature of Android note app that helps you stay organi
 4. Drag and drop and re-arrange Notes index
 5. Providing notification of Notes
 6. Open notify notes when tape on Notification
+
+# Technical Details
+* Programming Languages: Kotlin
+* Build Tool: Gradle with Kotlin DSL
+* Android Version: The application targets Android SDK version 34 and is compatible with devices running Android SDK version 34 and above.
+* Kotlin Version: The application uses Kotlin version 1.8.
