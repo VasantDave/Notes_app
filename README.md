@@ -12,7 +12,7 @@ Welcome to Notes app, the feature of Android note app that helps you stay organi
 
 ## Screenshots
 
-<img src="https://github.com/VasantDave/Notes_app/assets/142881259/874ada68-5253-42f7-bddd-f9f0b0bd5dd9" width="250" height="350">
+<img src="https://github.com/VasantDave/Notes_app/assets/142881259/874ada68-5253-42f7-bddd-f9f0b0bd5dd9" width="250" height="500">
 
 ![Screenshot_20240410_212631](https://github.com/VasantDave/Notes_app/assets/142881259/874ada68-5253-42f7-bddd-f9f0b0bd5dd9)
 ![Screenshot_20240410_212711](https://github.com/VasantDave/Notes_app/assets/142881259/5fb6c48c-2ff5-45f9-a8f5-152f0252f795)
